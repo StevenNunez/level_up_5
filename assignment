@@ -1,0 +1,13 @@
+Create application
+
+index.html
+js/angular.min.js
+js/app.js // you code goes here
+css/bootstrap.min.css
+
+
+// IN app.js
+create an angular module named 'store'
+
+//in index.html
+load the store module.

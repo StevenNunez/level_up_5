@@ -1,0 +1,7 @@
+Create a new application that loads an application named 'flatstore'
+
+ng-controller="StoreController" function
+
+var app = angular.module('store', []); to set up a base app in app.js
+
+ng-app='flatstore'
