@@ -11,3 +11,25 @@ create an angular module named 'store'
 
 //in index.html
 load the store module.
+
+---------------------------------------------------
+
+Create a Store Controller .
+
+Set this.products to be a list of products.
+name, description, price, canPurchase
+
+// In the index
+Set ng-controller to be StoreController, and add alias as store
+Iterate over each product, and display them.
+
+
+
+
+
+
+
+
+
+
+

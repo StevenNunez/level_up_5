@@ -5,3 +5,13 @@ ng-controller="StoreController" function
 var app = angular.module('store', []); to set up a base app in app.js
 
 ng-app='flatstore'
+
+app.controller('StoreController', function(){
+
+})
+
+ng-controller="StoreController as store"
+
+products name, description, price, canPurchase
+
+ng-repeat='products in store.products'
