@@ -9,25 +9,25 @@
       { shirtName: 'Casual Friday',
           color: 'gray',
           size: 'XL',
-          price: '$120',
+          price: '120',
           owner: 'Steven'
       },
       { shirtName: 'I have your back',
           color: 'orange',
           size: 'L',
-          price: '$10',
+          price: '10',
           owner: 'Steven'
       },
       { shirtName: 'Brother',
           color: 'yellow',
           size: 'L',
-          price: '$50',
+          price: '50',
           owner: 'Andrew'
       },
       { shirtName: 'Save Tyrion',
           color: 'black',
           size: 'L',
-          price: '$50',
+          price: '50',
           owner: 'Lucy'
       }
 
