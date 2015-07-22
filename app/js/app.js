@@ -8,27 +8,13 @@
   var shirts = [
       { shirtName: 'Casual Friday',
           color: 'gray',
-          size: 'XL',
-          price: '120',
-          owner: 'Steven'
+          size: 'M',
+          price: '12'
       },
-      { shirtName: 'I have your back',
-          color: 'orange',
-          size: 'L',
-          price: '10',
-          owner: 'Steven'
-      },
-      { shirtName: 'Brother',
-          color: 'yellow',
-          size: 'L',
-          price: '50',
-          owner: 'Andrew'
-      },
-      { shirtName: 'Save Tyrion',
-          color: 'black',
-          size: 'L',
-          price: '50',
-          owner: 'Lucy'
+      { shirtName: 'Portal Based Cleaning',
+          color: 'gray',
+          size: 'M',
+          price: '12'
       }
 
   ];
